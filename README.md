@@ -1,2 +1,4 @@
-# FinansApp
-E-MAĞAZA OTOMASYON SİSTEMİ
+# Nesnelerin İnterneti
+
+
+
